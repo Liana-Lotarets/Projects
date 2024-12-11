@@ -1,0 +1,8 @@
+Code for a personal assistant that works with a contact book and calendar.
+
+The assistant's features include:
+1. Adding new contacts.
+2. Modifying existing contacts.
+3. Adding birthdays to contacts.
+4. Displaying stored information from the contact book.
+5. Handling errors gracefully.

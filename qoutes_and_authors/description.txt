@@ -1,0 +1,3 @@
+Code for scraping a website containing quotes.
+
+The website http://quotes.toscrape.com is being scraped. The goal is to extract information about quotes (tags, author, text) and their authors (full name, date of birth, place of birth, and description).
